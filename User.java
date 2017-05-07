@@ -1,3 +1,5 @@
 class User{
-  asd
+  public static void main(){
+	  
+  }
 }
